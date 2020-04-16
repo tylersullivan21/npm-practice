@@ -1,6 +1,6 @@
 var weather = require('openweather-apis');
-weather.setLang('jp');
-weather.setCity('Tokyo');
+weather.setLang('english');
+weather.setCity('Gainesville');
 
 weather.setAPPID('7eaa7caf5e2e619bfeb2e2d14839650d');
 
